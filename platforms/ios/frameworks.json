@@ -1,0 +1,8 @@
+{
+    "AudioToolbox.framework": 1,
+    "libz.tbd": 2,
+    "CoreVideo.framework": 1,
+    "QuartzCore.framework": 1,
+    "CoreLocation.framework": 1,
+    "WebKit.framework": 1
+}

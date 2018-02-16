@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "manateeworks-barcodescanner-v3",
+        "scope": null,
+        "escapedName": "manateeworks-barcodescanner-v3",
+        "name": "manateeworks-barcodescanner-v3",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/avinash/ionic/test/Manatee/myCoolMwApp"
+    ]
+  ],
+  "_from": "manateeworks-barcodescanner-v3@latest",
+  "_id": "manateeworks-barcodescanner-v3@3.0.49",
+  "_inCache": true,
+  "_location": "/manateeworks-barcodescanner-v3",
+  "_nodeVersion": "9.3.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/manateeworks-barcodescanner-v3-3.0.49.tgz_1517569692130_0.6729327430948615"
+  },
+  "_npmUser": {
+    "name": "manateeworks",
+    "email": "dev@manateeworks.com"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "manateeworks-barcodescanner-v3",
+    "scope": null,
+    "escapedName": "manateeworks-barcodescanner-v3",
+    "name": "manateeworks-barcodescanner-v3",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/manateeworks-barcodescanner-v3/-/manateeworks-barcodescanner-v3-3.0.49.tgz",
+  "_shasum": "78fbdd393809216b191703355441dbdabf1da6de",
+  "_shrinkwrap": null,
+  "_spec": "manateeworks-barcodescanner-v3",
+  "_where": "/Users/avinash/ionic/test/Manatee/myCoolMwApp",
+  "author": {
+    "name": "Manatee Works"
+  },
+  "bugs": {
+    "url": "https://github.com/manateeworks/phonegap-manateeworks-v3.git/issues"
+  },
+  "cordova": {
+    "id": "manateeworks-barcodescanner-v3",
+    "platforms": [
+      "android",
+      "ios",
+      "windows"
+    ]
+  },
+  "dependencies": {},
+  "description": "Manatee Works Barcode Scanner Plugin",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-nq19RHtNvKC7Ou3gC4MmVDgE0QSj0f4l4s3D0HI2j3VwWxEUJQvH9Tkj3v+UMB6y9/xnI31ZtH93h5SeNN9HRw==",
+    "shasum": "78fbdd393809216b191703355441dbdabf1da6de",
+    "tarball": "https://registry.npmjs.org/manateeworks-barcodescanner-v3/-/manateeworks-barcodescanner-v3-3.0.49.tgz"
+  },
+  "gitHead": "3015f009ea93b45c142d646a9aec69279165bbf9",
+  "homepage": "https://github.com/manateeworks/phonegap-manateeworks-v3.git#readme",
+  "keywords": [
+    "phonegap",
+    "barcode",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "manateeworks",
+      "email": "dev@manateeworks.com"
+    }
+  ],
+  "name": "manateeworks-barcodescanner-v3",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.0.0",
+      "android": "1.1.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manateeworks/phonegap-manateeworks-v3.git"
+  },
+  "version": "3.0.49"
+}
